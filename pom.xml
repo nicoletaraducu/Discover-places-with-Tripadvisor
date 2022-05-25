@@ -14,7 +14,7 @@
         <cucumber.version>2.1.0</cucumber.version>
         <maven.compiler.version>3.3</maven.compiler.version>
         <cucumber.spring.version>1.2.5</cucumber.spring.version>
-        <spring.framework.version>4.3.18.RELEASE</spring.framework.version>
+        <spring.framework.version>5.2.22.RELEASE</spring.framework.version>
         <selenium.version>3.6.0</selenium.version>
     </properties>
 
